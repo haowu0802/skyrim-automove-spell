@@ -1,0 +1,5 @@
+meta.ini
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
